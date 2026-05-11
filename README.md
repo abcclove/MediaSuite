@@ -22,3 +22,4 @@ bash <(curl -sL https://raw.githubusercontent.com/abcclove/MediaSuite/main/run.s
 
 方式二：直接运行二进制文件
 bash <(curl -sL https://raw.githubusercontent.com/abcclove/MediaSuite/main/media.bin)
+---
