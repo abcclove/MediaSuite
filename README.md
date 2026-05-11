@@ -1,5 +1,5 @@
-# MediaSuite# MediaSuite
-NAS 媒体服务一站式管理面板
+# MediaSuite
+一站式管理面板
 
 ---
 
@@ -14,7 +14,11 @@ NAS 媒体服务一站式管理面板
 ## 🚀 快速开始（两种方式）
 
 ### 方式一：终极一键命令（推荐）
-无需下载，直接在终端执行：
+无需下载，直接在终端执行启动脚本：
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/abcclove/MediaSuite/main/run.sh)
 
+---
+
+方式二：直接运行二进制文件
+bash <(curl -sL https://raw.githubusercontent.com/abcclove/MediaSuite/main/media.bin)
